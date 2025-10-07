@@ -4,7 +4,9 @@
 Write your W1 activity Devlog here.
 Hello World.
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+1.Because RGB colors can't goes more than 1, so we need decimals to represent the color
+2.Becuase Bounces is the number of times that ball jumps, so 1,2,3,4,5,...
+3.Missing ;
 
 ## Open-Source Assets
 ### W1
