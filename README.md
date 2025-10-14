@@ -1,4 +1,4 @@
-# in-class-activities
+﻿# in-class-activities
 ## Devlogs
 ### W1
 Write your W1 activity Devlog here.
@@ -7,6 +7,18 @@ Hello World.
 1.Because RGB colors can't goes more than 1, so we need decimals to represent the color
 2.Becuase Bounces is the number of times that ball jumps, so 1,2,3,4,5,...
 3.Missing ;
+### W3
+Table 4 rhythm game : 
+public bool DidPlayerHitBeat(float playerHitTime, float noteTime){
+
+	if(playerHitTime == noteTime){
+		return true;
+	}
+	else{
+		return false;
+	})
+
+}
 
 ## Open-Source Assets
 ### W1
