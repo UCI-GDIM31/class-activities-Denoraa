@@ -19,6 +19,12 @@ public bool DidPlayerHitBeat(float playerHitTime, float noteTime){
 	})
 
 }
+### W4
+Tables 11-19: lines 17, 28, and 32
+
+	private bool _isGrounded = true; // line 17: initializes the _isGrounded  private variable to true, indicating that the player starts on the ground.
+	if (Input.GetKeyDown(KeyCode.Space) && _isGrounded)// line 28: checks if the space key is pressed and if the player is grounded before allowing a jump.
+	_isGrounded = false;// line 32: sets the _isGrounded variable to false when the player jumps, indicating that the player is no longer on the ground.
 
 ## Open-Source Assets
 ### W1
