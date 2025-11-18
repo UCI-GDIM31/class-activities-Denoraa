@@ -43,6 +43,14 @@ DeerW5 Devlog:
 	Action: In Start(), we grab the _agent component, and then tell it to go to _target.position.
 
 	Result: The DeerW5 script works! The deer now heads straight for the object we choose in the Inspector when the game starts. Done GGs
+### 6
+
+### 7
+
+### W8
+	I couldn't attend class due to weather, however I tried to write the system design doc:
+		https://docs.google.com/document/d/1D3jS8YsskPWHixtaUzNwhttncF2lbI7wDa9rKL3OcWY/edit?tab=t.0
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
